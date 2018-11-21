@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CustomViewDuplicationIssue"
+             x:Class="CustomViewDuplicationIssue.MainPage">
+    <StackLayout Margin="10,30,10,30">
+        <local:LabelledEntrywithIcon x:Name="firstName"
+                                     Title="First Name"
+                                     Detail="{Binding Fella.FirstName}" />
+        <local:LabelledEntrywithIcon  x:Name="lastname"
+                                      Title="Last Name"
+                                     Detail="{Binding Fella.LastName}" />
+        <local:LabelledEntrywithIcon  x:Name="gender"
+                                      Title="Gender"
+                                     Detail="{Binding Fella.Gender}" />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,13 @@
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\CustomViewDuplicationIssue.csprojAssemblyReference.cache
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\LabelledEntrywithIcon.xaml.g.cs
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\CustomViewDuplicationIssue.csproj.CoreCompileInputs.cache
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\CustomViewDuplicationIssue.AssemblyInfoInputs.cache
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\CustomViewDuplicationIssue.AssemblyInfo.cs
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\bin\Debug\netstandard2.0\CustomViewDuplicationIssue.deps.json
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\bin\Debug\netstandard2.0\CustomViewDuplicationIssue.dll
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\bin\Debug\netstandard2.0\CustomViewDuplicationIssue.pdb
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\CustomViewDuplicationIssue.dll
+C:\Users\Prateek\Documents\GitHub\CustomViewDuplicationIssue\CustomViewDuplicationIssue\CustomViewDuplicationIssue\obj\Debug\netstandard2.0\CustomViewDuplicationIssue.pdb
